@@ -1,0 +1,11 @@
+[
+	{
+		"name":"udp",
+		"time":120,
+		"description":"Udp Flood",
+		"default port":do port 80 for home wifis,
+		"default time":any time up to your attack limit,
+		"api":["http://placeholder.co/api?host=<<$host>>&port=<<$port>>&time=<<$time>>&method=realmethodname"],
+	}
+
+]
